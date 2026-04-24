@@ -5,9 +5,15 @@
 =========
 👍技術能力(業餘等級)
 ---------
-🖥️資料分析與報表
-**Power BI**
-**AI運用**
+🖥️資料分析與報表  
+**Power BI**  
+**AI運用**  
+===
+長照老師
+日文歌曲教學
+https://www.youtube.com/watch?v=Eo-0pgRYdbw&pp=0gcJCdQKAYcqIYzv
+![螢幕擷取畫面 2026-04-24 134705](https://hackmd.io/_uploads/SkmvNFd6-e.png)
+
 
 
 
