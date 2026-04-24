@@ -12,7 +12,7 @@
 長照老師
 日文歌曲教學
 <https://www.youtube.com/watch?v=Eo-0pgRYdbw&pp=0gcJCdQKAYcqIYzv>  
-![螢幕擷取畫面 2026-04-24 134705](/hackmd.io/_uploads/SkmvNFd6-e.png"梔子花")  
+![螢幕擷取畫面 2026-04-24 134705](https://hackmd.io/_uploads/SkmvNFd6-e.png "梔子花")
 
 
 
