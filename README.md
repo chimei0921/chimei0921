@@ -1,4 +1,8 @@
-# 關於我
+# (･ิω･ิ) 關於我
+
+跨界又不務正業的營養師，講的就是我~~  
+什麼都知道一點、會一點，專業沾醬油的就是本人我~~
+
 
 <!--
 **chimei0921/chimei0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
